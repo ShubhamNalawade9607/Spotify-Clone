@@ -3,6 +3,8 @@
 I've created a simple Spotify web player UI clone using only **HTML and CSS**.  
 This project focuses on the layout and design of Spotify’s interface, including the sidebar, playlist section, and bottom music player.
 
+🔗 Live Website:https://spotify-clone-shubham9607.netlify.app/
+
 ---
 
 ## ✨ Features
